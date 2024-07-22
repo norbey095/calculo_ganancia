@@ -1,0 +1,8 @@
+form{
+    padding: .375rem .75rem;
+    border: 1px solid #007bff;
+    border-radius: .25rem;
+    color: #007bff;
+    transition: color .15s ease-in-out;
+    background-color: color .15s ease-in-out;
+  }
